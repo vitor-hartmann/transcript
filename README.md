@@ -1,7 +1,7 @@
-# Transcript Application
+# Transcripts to beautiful 1-pagers
 
 ## Description
-A web application for creating beautiful meeting minutes from a transcript.
+A web application for creating beautiful 1-pager meeting minutes from a transcript.
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:

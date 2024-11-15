@@ -1,7 +1,7 @@
 # Transcript Application
 
 ## Description
-A web application for transcribing and managing audio/video content (please adjust this description based on your actual application's purpose).
+A web application for creating beautiful meeting minutes from a transcript.
 
 ## Prerequisites
 Before you begin, ensure you have the following installed:
@@ -41,10 +41,10 @@ cd server
 npm start
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
-(Please list your main features here)
+- Creates a beautiful PDF from a transcript
+- Creates a preview of the minutes
+- Admin configuration for changing the styles
+- more features coming soon...
 
 ## Technologies Used
 - React.js
